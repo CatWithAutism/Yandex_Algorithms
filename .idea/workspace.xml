@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39be989a-75c8-4d33-bc3a-7d311d4a0827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_6/d/d.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_6/final.a/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_6/final.b/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_6/h/h.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_6/j/j.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_6/с/с.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/a/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/b/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/c/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/d/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/e/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/f/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/final.a/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/final.b/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/g/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_7/h/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_8/a/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_8/b/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_8/d/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_8/e/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_8/f/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_8/k/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/YaTasks/sprint_1/functionValues/code.go" beforeDir="false" afterPath="$PROJECT_DIR$/YaTasks/sprint_1/functionValues/code.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YaTasks/sprint_4/hashTable/code.go" beforeDir="false" afterPath="$PROJECT_DIR$/YaTasks/sprint_4/hashTable/code.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_8/final.a/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YaTasks/sprint_8/final.b/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,16 +56,16 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/YaTasks/sprint_8/f" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/YaTasks/sprint_8/final.b" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vladislav\Desktop\YaAlgs\YaTasks\sprint_8\final.b" />
+      <recent name="C:\Users\Vladislav\Desktop\YaAlgs\YaTasks\sprint_8\final.a" />
       <recent name="C:\Users\Vladislav\Desktop\YaAlgs\YaTasks\sprint_8\f" />
       <recent name="C:\Users\Vladislav\Desktop\YaAlgs\YaTasks\sprint_8\e" />
       <recent name="C:\Users\Vladislav\Desktop\YaAlgs\YaTasks\sprint_8\d" />
-      <recent name="C:\Users\Vladislav\Desktop\YaAlgs\YaTasks\sprint_8\k" />
-      <recent name="C:\Users\Vladislav\Desktop\YaAlgs\YaTasks\sprint_8\b" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Vladislav\Desktop\YaAlgs" />
